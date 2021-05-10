@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaiduMap</string>
+    <string name="打卡签到">打卡签到</string>
+    <string name="_8_20_00">8:20:00</string>
+    <string name="距离目的地_">距离目的地:</string>
+    <string name="米">米</string>
+    <string name="title">打卡签到</string>
+    <string name="在线程中设置了">在线程中设置了</string>
+
+</resources>
